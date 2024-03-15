@@ -1,4 +1,4 @@
-# Voice Assistant with OpenAI's GPT-3 and IBM Watson
+# VoiceGPT
 
 This project is a voice assistant application that combines the power of OpenAI's GPT-3 language model and IBM Watson's speech-to-text and text-to-speech services. It allows users to interact with the assistant using voice commands and receive responses in both text and audio formats.
 
