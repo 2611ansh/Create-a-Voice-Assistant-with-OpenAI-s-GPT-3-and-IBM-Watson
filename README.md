@@ -14,7 +14,7 @@ This project is a voice assistant application that combines the power of OpenAI'
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Voice-Assistant-with-OpenAI-s-GPT-3-and-IBM-Watson.git
+git clone https://github.com/2611ansh/Voice-Assistant-with-OpenAI-s-GPT-3-and-IBM-Watson.git
 ```
 
 2. Install the required dependencies:
