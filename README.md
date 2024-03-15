@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 3. Set up your OpenAI API key and IBM Watson credentials:
 
-   - Open the `worker.py` file and replace `"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"` with your actual OpenAI API key.
+   - Open the `worker.py` file and replace `"..."` with your actual OpenAI API key.
    - Update the `base_url` variables in `worker.py` with your IBM Watson service URLs.
 
 ## Usage
